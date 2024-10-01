@@ -32,9 +32,17 @@ This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as p
 
 The category column is in the form of breadcrumb i.e. current category within navigational hierarchy and the exact category can be extracted using the trim function. Next, the data was cleaned, null and duplicate values were removed, and the columns were formatted. The data wa stored as a table "sales".
 
+Formula Used: TRIM(RIGHT(A2,LEN(A2)-FIND("@",SUBSTITUTE(A2,"|","@",LEN(A2)-LEN(SUBSTITUTE(A2,"|",""))))))
+
 ![Screenshot 2024-09-23 221548](https://github.com/user-attachments/assets/dc6edb39-8574-41d7-a4c2-a80715adc141)
 
+Final data after cleaning, transforming, & removing Null or incorrect values:
+
+![Screenshot 2024-10-01 113718](https://github.com/user-attachments/assets/555da63a-bab2-408d-9367-65feb7c00170)
+
 ## Dashboard Insights - Sales Trend, Top Products and Categories, Top Rated Categoies
+
+After analysing the dataset, we can draw the following conclusions:
 
 1. Total Amount Earned - 4.579 Million Rupees
 2. Total Users of Amazon - 1465
