@@ -36,8 +36,11 @@ The category column is in the form of breadcrumb i.e. current category within na
 
 ## Dashboard Insights - Sales Trend, Top Products and Categories, Top Rated Categoies
 
-
-![Screenshot 2024-09-18 213044](https://github.com/user-attachments/assets/3f90416b-a289-4a28-8172-d6a939aad6d3)
+1. Total Amount Earned - 4.579 Million Rupees
+2. Total Users of Amazon - 1465
+3. Top 5 products - Fire Blott Ninja Call, Fire Blott Phoenix Smart Watch, Wayona Nylon Braided USB to Lighting Fast Charging, Sounce Fast Phone Charging Cable, Portronics Connect
+4. Top 5 products by category - USBCables, SmartWatches, SnartPhones, SmartTelevision, In-Ear
+5. Top 15 Highly Rated Catgeories
 
 ![Screenshot 2024-09-18 212838](https://github.com/user-attachments/assets/3e7a63b9-b3ad-42b8-971a-65f2580d08b3)
 
